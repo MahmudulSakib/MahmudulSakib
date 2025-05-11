@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,c,html,react,nextjs,nodejs,express,mongodb,postgres,mysql,sqlite,prisma,firebase,cloudflare,aws,supabase,d3,graphql,jquery,css,sass,tailwind,bootstrap,materialui,figma,threejs,visualcode,devto,postman,webpack,wordpress&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,c,html,react,nextjs,nodejs,express,mongodb,postgres,mysql,sqlite,prisma,firebase,cloudflare,aws,supabase,d3,graphql,jquery,css,sass,tailwind,bootstrap,materialui,figma,threejs,visualcode,devto,postman,webpack,wordpress&perline=8&theme=dark" />
   </a>
 </p>
 
