@@ -16,7 +16,10 @@
 
 ---
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,next,mongodb,postgres,tailwind,framer,gsap,threejs&perline=6" alt="Skill Icons" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,framer,gsap,threejs" />
+</p>
+
 
 ---
 
