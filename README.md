@@ -16,21 +16,7 @@
 
 ---
 
-### 🧰 Tech Stack
-
-#### ⚙️ Languages & Tools  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)  
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-EF0179?logo=framer&logoColor=white)  
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=black)  
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,next,mongodb,postgres,tailwind,framer,gsap,threejs&perline=6" alt="Skill Icons" /> </p>
 
 ---
 
