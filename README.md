@@ -2,7 +2,9 @@
 <!-- <h3 align="center">Full-Stack Web Developer | MERN & PERN Stack | Creative UI/UX Builder</h3> -->
 
 <p align="center">
+  <a href="https://github.com/MahmudulSakib">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer+%E2%9A%99%EF%B8%8F;Creative+UI+%2B+3D+Web+%F0%9F%8C%90;Let%E2%80%99s+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -19,7 +21,7 @@
 ### 🤖 Tech Stack
 
 <p align="center">
-<a href="/">
+<a href="https://github.com/MahmudulSakib">
     <img src="https://skillicons.dev/icons?i=js,ts,c,html,react,nextjs,nodejs,express,mongodb,postgres,mysql,sqlite,prisma,firebase,cloudflare,aws,supabase,d3,graphql,jquery,css,sass,tailwind,bootstrap,materialui,figma,threejs,vscode,devto,postman,webpack,wordpress&theme=dark&perline=8" />
 </a>
 </p>
