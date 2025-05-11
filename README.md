@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
 - 🔭 I’m a **Full-Stack Web Developer** skilled in **MERN** & **PERN** stacks  
 - 🌟 Passionate about creating **beautiful UIs**, **smooth animations**, and **powerful backends**  
@@ -15,6 +15,8 @@
 - 🎯 Always learning, building, and pushing my creative boundaries  
 
 ---
+
+### 🤖 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
