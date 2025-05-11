@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,framer,gsap,threejs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c,html,react,nextjs,nodejs,express,mongodb,postgres,mysql,sqlite,prisma,firebase,cloudflare,aws,supabase,d3,graphql,jquery,css,sass,tailwind,bootstrap,materialui,figma,threejs,visualcode,devto,postman,webpack,wordpress," />
 </p>
 
 
