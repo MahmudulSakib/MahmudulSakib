@@ -1,26 +1,20 @@
-- 👋 Hi, I’m @MahmudulSakib  
-- 👨‍💻 I’m a Full-Stack Web Developer (MERN & PERN)  
-- 👀 I’m interested in building scalable web apps, 3D experiences, and smooth UI/UX interactions  
-- 🌱 I’m currently diving deeper into advanced animation (GSAP + Three.js) and backend architecture  
-- 💞️ I’m looking to collaborate on full-stack projects, open-source tools, and creative frontend animations  
-- 📫 How to reach me: [Email](mailto:youremail@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://yourportfolio.com)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I animate pixels for fun and write backend logic for peace of mind 🧘‍♂️  
+<h1 align="center">Hi there, I'm <span style="color:#0ea5e9;">Mahmudul Sakib</span> 👋</h1>
+<h3 align="center">Full-Stack Developer | MERN & PERN | Creative UI/UX Builder</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer+%E2%9A%99%EF%B8%8F;Creative+UI+%2B+3D+Web+%F0%9F%8C%90;Let%E2%80%99s+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-### 💻 Tech Stack
+## 📜 About Me
 
-**Frontend**  
-React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · Framer Motion · GSAP · Three.js  
-
-**Backend**  
-Node.js · Express.js · MongoDB · PostgreSQL  
-
-**Other Skills**  
-REST API · JWT Auth · OAuth · MVC · Git · Responsive Design  
-
-<!---
-MahmudulSakib/MahmudulSakib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```ts
+const MahmudulSakib = {
+  pronouns: "He/Him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  tools: ["React", "Next.js", "Node.js", "Express", "PostgreSQL", "MongoDB"],
+  design: ["TailwindCSS", "Framer Motion", "GSAP", "Three.js"],
+  learning: ["Advanced Three.js", "WebGL", "Serverless Functions"],
+  funFact: "I animate UIs like Pixar and architect APIs like LEGO",
+};
