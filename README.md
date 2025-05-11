@@ -19,9 +19,9 @@
 ### 🤖 Tech Stack
 
 <p align="center">
-
+<a href="/">
     <img src="https://skillicons.dev/icons?i=js,ts,c,html,react,nextjs,nodejs,express,mongodb,postgres,mysql,sqlite,prisma,firebase,cloudflare,aws,supabase,d3,graphql,jquery,css,sass,tailwind,bootstrap,materialui,figma,threejs,vscode,devto,postman,webpack,wordpress&theme=dark&perline=8" />
-
+</a>
 </p>
 
 ---
