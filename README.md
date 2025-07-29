@@ -1,76 +1,64 @@
-<!-- README.md -->
+<h1 align="center">👋 Hello! I'm <span style="color:#0ea5e9;">Mahmudul H. Sakib</span></h1>
+<h3 align="center">Full-Stack Web & Mobile Developer | MERN + PERN | Creative UI/UX Crafter</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Hey+there+👋+I'm+Mahmudul+H.+Sakib;Full-Stack+Web+%26+Mobile+Developer;Creative+Thinker+%7C+Clean+Coder+%7C+UI+Magician" alt="Typing SVG" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Code-FullStack-informational?style=flat&logo=VisualStudioCode&color=0ea5e9" />
-  <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%2B%20Animation-ffb703?style=flat&logo=figma" />
-  <img src="https://img.shields.io/badge/Power-AI%20Integrations-success?style=flat&logo=openai" />
-  <img src="https://img.shields.io/badge/Tools-MERN%20%7C%20PERN%20%7C%20ReactNative-blueviolet?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Code-MERN%20%7C%20PERN-informational?style=for-the-badge&logo=javascript&color=0ea5e9" />
+  <img src="https://img.shields.io/badge/Mobile-ReactNative-blueviolet?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Design-Figma%20%7C%20GSAP%20%7C%20Three.js-ff69b4?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Cloud-Firebase%20%7C%20AWS-success?style=for-the-badge&logo=firebase" />
 </div>
 
 ---
 
-## 🌌 About Me
+## 🌟 Who I Am
 
-> “Design is intelligence made visible. Code is that intelligence made usable.”  
+Hi! I’m Sakib — a developer who merges logic with aesthetics. I love building bold, fast, and immersive digital experiences that feel human.
 
-I'm a multi-talented **Full-Stack Developer** with a passion for building **beautiful, functional, and fast** digital experiences. From animated UIs to high-performance APIs, I create modern apps that feel alive — both on **web** and **mobile**.
-
-<br />
-
-- 🔭 Currently crafting awesome things with **Next.js, React Native & AI APIs**  
-- 🎨 Designer-minded — I treat every interface like an artwork  
-- 🧠 Constantly learning, building, pushing the edge of creativity  
+- 💻 Full-Stack Web & Mobile Developer (MERN / PERN / RN)
+- ✨ Obsessed with UI animations, performance & clean code
+- 🤖 Building cool things with AI, Firebase, and OpenAI APIs
+- 🧠 Always learning, iterating, improving
 
 ---
 
-## 🛠️ Toolbox of Awesomeness
+## 🧰 My Tech Toolkit
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,tailwind,figma,threejs,d3,firebase,aws,graphql,redux,vite,github,vercel&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,prisma,tailwind,figma,threejs,firebase,aws,graphql,redux,vite,vercel,html,css&theme=dark&perline=8" />
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Projects I’m Proud Of
 
-| Project | Tech | Highlights |
-|--------|------|------------|
-| 🌌 [**Universe-App**](https://mahmudulsakib.dev) | Next.js + Tailwind + GSAP | Portfolio site with 3D effects, animated sections & chatbot |
-| 🛠 [**Taskora**] | MERN Stack + Cloudinary | Freelance platform with secure auth, wallet, jobs, quiz, bonus |
-| 🤖 [**AI Tools**] | OpenAI + Firebase | Full AI feature modules – Chatbot, Email AI, Job Suggestion |
-
-> ✨ More on [mahmudulsakib.dev](https://mahmudulsakib.dev)
+| Project | Stack | Summary |
+|--------|-------|---------|
+| [🌌 Universe-App](https://mahmudulsakib.dev) | Next.js + GSAP + Tailwind | A sleek portfolio with animations & AI chat support |
+| Taskora | MERN + Cloudinary + Wallet | Freelancing web app with job system, proofs & wallet |
+| AI Tools | OpenAI + Firebase | A smart suite: chatbot, email writer, job suggestor |
 
 ---
 
 ## 🤝 Let’s Collaborate
 
-💬 Open to **freelance**, **startup collabs**, and **cool open-source**  
-🚀 I love building with **real-time data**, **motion design**, and **AI-powered backends**
+Got an idea? I’d love to help you build it!
 
-### Reach Me Here:
-<p align="left">
-  🌐 <a href="https://mahmudulsakib.dev" target="_blank">Website</a><br />
-  💼 <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a><br />
-  📧 <a href="mailto:youremail@example.com">youremail@example.com</a>
-</p>
+- 🧑‍💻 Freelance Projects  
+- 🧪 Startup MVPs  
+- 🎓 Open-source Contributions  
+
+📫 **Email** → [youremail@example.com](mailto:youremail@example.com)  
+🌐 **Portfolio** → [mahmudulsakib.dev](https://mahmudulsakib.dev)  
+💼 **LinkedIn** → [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
 
-## ✨ Fun Stuff
+## 🎨 My Developer Mantra
 
-- 🎯 I use **design thinking** even in backend logic  
-- 🎧 I write code with lo-fi beats and glowing keyboards  
-- 🐼 Favorite stack: **React + Tailwind + Node + PostgreSQL + Prisma + OpenAI**
+> _“Interfaces should feel alive. Code should feel like poetry. And products should feel like magic.”_
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer&text=Thanks+for+visiting!&fontSize=22&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer&text=Happy%20Building!%20&fontSize=24&fontColor=ffffff" />
 </div>
