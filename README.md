@@ -1,53 +1,57 @@
-<h1 align="center">Hi there, I'm <span style="color:#0ea5e9;">Mahmudul Hasan Sakib</span> 🐼</h1>
-<!-- <h3 align="center">Full-Stack Web Developer | MERN & PERN Stack | Creative UI/UX Builder</h3> -->
+<h1 align="center">Hey 👋, I'm <span style="color:#0ea5e9;">Mahmudul Hasan Sakib</span> 🐼</h1>
 
 <p align="center">
   <a href="https://github.com/MahmudulSakib">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer+%E2%9A%99%EF%B8%8F;Creative+UI+%2B+3D+Web+%F0%9F%8C%90;Let%E2%80%99s+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Crafting+Modern+Web+%26+Mobile+Experiences+⚡;Building+Full-Stack+Magic+with+MERN+%2B+PERN+🚀;Let's+code+with+purpose+and+passion+❤️" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 💡 Who Am I?
 
-- 🔭 I’m a **Full-Stack Web Developer** skilled in **MERN** & **PERN** stacks  
-- 🌟 Passionate about creating **beautiful UIs**, **smooth animations**, and **powerful backends**  
-- 🧩 I blend **design, motion, and logic** into seamless web experiences  
-- 🎯 Always learning, building, and pushing my creative boundaries  
+- 🧑‍💻 A **Full-Stack Developer** who blends clean code, modern UI/UX, and interactive web experiences  
+- 🌐 Skilled in **MERN**, **PERN**, **React Native**, **Firebase**, and cloud integration  
+- 🎨 UI/UX enthusiast, animation lover, and backend logic ninja  
+- 🚀 I believe **creativity + logic** can solve almost anything  
 
 ---
 
-### 🤖 Tech Stack
+### 🛠️ My Tech Playground
 
 <p align="center">
-<a href="https://github.com/MahmudulSakib">
-    <img src="https://skillicons.dev/icons?i=js,ts,c,html,react,nextjs,nodejs,express,mongodb,postgres,mysql,sqlite,prisma,firebase,cloudflare,aws,supabase,d3,graphql,jquery,css,sass,tailwind,bootstrap,materialui,figma,threejs,vscode,devto,postman,webpack,wordpress&theme=dark&perline=8" />
-</a>
+  <a href="https://github.com/MahmudulSakib">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,prisma,sqlite,firebase,aws,supabase,cloudflare,html,css,sass,tailwind,bootstrap,materialui,figma,threejs,d3,graphql,jquery,postman,vscode,webpack,wordpress&theme=dark&perline=8" />
+  </a>
 </p>
 
 ---
 
-### 🤝 Let's Collaborate
+### 🤝 Collaboration Zone
 
-- 💬 I'm open to **collaborations**, **freelance opportunities**, or contributing to **open-source**  
-- 🛠 Looking to build real-time apps, 3D experiences, or high-performance UIs? Let’s team up!  
-
----
-
-### 📫 Connect With Me
-
-- 🔗 [Portfolio](https://yourportfolio.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📧 [Email](mailto:youremail@example.com)  
+- 🧑‍🤝‍🧑 Open to **freelance**, **startup MVPs**, or **open-source missions**
+- 🧠 Let’s create **real-time apps**, **AI integrations**, or **immersive 3D UIs**
+- 🎯 I care about **performance, accessibility, and user-first design**
 
 ---
 
-### ⚡ Fun Facts
+### 📬 Let’s Connect
 
-- 🧠 I love solving complex problems with clean code  
-- 🎨 I treat frontend like an artboard — animations & motion bring joy  
-- 🧘‍♂️ Backend logic keeps me grounded and focused  
+- 🌍 **Portfolio** → [mahmudulsakib.dev](https://mahmudulsakib.dev)  
+- 💼 **LinkedIn** → [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- ✉️ **Email** → [youremail@example.com](mailto:youremail@example.com)  
+
+---
+
+### ⚡ A Few Fun Facts
+
+- 🔧 I solve problems like puzzles — one piece of logic at a time  
+- 🌈 Animations are not just visuals, they tell stories  
+- 🧘 I balance creativity and code like frontend and backend harmony  
+
+---
+
+> 💬 _"Design like an artist, build like an engineer."_ — That’s my daily vibe!
 
 ---
 
