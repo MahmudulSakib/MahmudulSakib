@@ -1,26 +1,42 @@
-<!-- README.md - Dark Mode Inspired -->
+<!-- README.md | Mahmudul H. Sakib | Signature Style -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Hey%20there!-I'm%20Mahmudul%20H.%20Sakib-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Mahmudul%20H.%20Sakib-Full%20Stack%20Engineer-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
 
-<h1 style="color:#e0f2fe;">🧑‍💻 Full-Stack Web & Mobile Developer</h1>
+<h1 align="center" style="color:#0ea5e9;">Hi, I’m Sakib — Building Digital Magic 🪄</h1>
 
-<p style="color:#94a3b8;">
-Crafting immersive web & mobile experiences using MERN / PERN stacks, <br/>
-fluid UI animations, and scalable cloud-backed APIs.
+<p align="center">
+  <em>React Native • Next.js • Node • PostgreSQL • AI Integrator • Motion-First Thinker</em>
 </p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/MahmudulSakib/MahmudulSakib/output/code-banner.gif" alt="code animation" width="90%"/>
 
 </div>
 
 ---
 
-## 🪄 Tech Stack Highlights
+## 🌌 The Code Meets Design Philosophy
 
-```ts
-Frontend  →  React · Next.js · TypeScript · TailwindCSS · GSAP · Three.js  
-Backend   →  Node.js · Express · PostgreSQL · MongoDB · Prisma · Drizzle  
-Mobile    →  React Native · Expo  
-Design    →  Figma · Canva · Lottie  
-Cloud     →  Firebase · AWS · Cloudinary · Render  
-AI/Tools  →  OpenAI · Vercel · GitHub · Postman
+> _"My goal is to make every interface feel alive, intuitive, and meaningful."_  
+> Whether it’s a mobile app, AI-integrated dashboard, or a 3D web experience — I approach every build with craftsmanship.
+
+### 🚀 What I’m Passionate About:
+- 🧠 Real-time logic with thoughtful UX  
+- 🌀 GSAP & Three.js animations that **breathe life into UI**  
+- 🪄 Connecting beautiful frontends to powerful backends  
+- 🤖 AI integrations that enhance productivity  
+
+---
+
+## 🛠 Tech Stack
+
+```js
+Languages     → JavaScript · TypeScript · SQL  
+Frontend      → React · Next.js · Tailwind · GSAP · Three.js · Redux  
+Backend       → Node.js · Express · PostgreSQL · MongoDB · Prisma  
+Mobile        → React Native · Expo  
+Cloud/Infra   → Firebase · Cloudinary · Vercel · Render · AWS  
+AI/Extras     → OpenAI · Stripe · Drizzle ORM · Figma
