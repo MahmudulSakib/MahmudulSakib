@@ -36,15 +36,6 @@
 
 ---
 
-<!-- SNAPSHOT CARDS -->
-## 📊 Snapshot
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-UX%20Animation%20%7C%20Real-time%20Logic%20%7C%20AI-Integration-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Timezone-UTC%2B6-222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Availability-Open%20to%20Projects-16a34a?style=for-the-badge" />
-</p>
-
 ---
 
 <!-- SKILLS GRID -->
@@ -85,49 +76,10 @@
 ---
 
 <!-- SERVICES -->
-## 🧭 I Build
 
-- **AI-enabled dashboards** (chat, summarization, knowledge search)  
-- **E-commerce systems** (secure carts, Stripe, wallets, bonus systems)  
-- **Real-time chat & notifications** (Socket.IO, WebRTC)  
-- **3D/Animated landing pages** (GSAP, Three.js, Framer Motion)  
-- **Mobile apps** with shared design systems (Expo/React Native)
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## 🚀 Featured Work
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>AI Content Generation Platform</h3>
-      <p>Next.js · Node · PostgreSQL · OpenAI · Stripe</p>
-      <img src="https://placehold.co/1000x560/png?text=AI+Content+Generator" alt="AI app preview" />
-      <p>
-        End-to-end AI flows: prompt templates, content scoring, billing, and usage analytics with robust RBAC.
-      </p>
-      <a href="https://github.com/MahmudulSakib" target="_blank"><b>View Repo</b></a> • 
-      <a href="#" target="_blank"><b>Live Demo</b></a>
-    </td>
-    <td width="50%">
-      <h3>Micro-Jobs Marketplace</h3>
-      <p>Next.js · Drizzle · PostgreSQL · Cloudinary · Wallets</p>
-      <img src="https://placehold.co/1000x560/png?text=Microjobs+Marketplace" alt="Marketplace preview" />
-      <p>
-        Wallets, bonus rewards, quiz system, job proofs, admin moderation, and sleek ShadCN UI.
-      </p>
-      <a href="https://github.com/MahmudulSakib" target="_blank"><b>View Repo</b></a> • 
-      <a href="#" target="_blank"><b>Live Demo</b></a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-> Want a custom demo? **I can adapt any of these to your use case within days.**
 
 ---
 
