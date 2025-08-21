@@ -36,6 +36,7 @@
 
 
 <!-- SKILLS GRID -->
+---
 ## 🧰 Tech Stack (Daily Drivers)
 
 **Frontend**
