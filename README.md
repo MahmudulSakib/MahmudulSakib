@@ -19,12 +19,6 @@
   <!-- Gradient Hero Banner -->
   <img alt="Hero banner" width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=Design%20💡%20x%20Code%20⚙️%20x%20AI%20🧠&text2=Motion-First%20Experiences&width=1200&height=250" />
 
-  <!-- Quick Links -->
-  <p>
-    <a href="mailto:mahmudulsakib.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?style=flat&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/mahmudul-h-sakib" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-    <a href="https://mahmudulsakib.github.io" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat&logo=About.me&logoColor=white"></a>
-  </p>
 
 </div>
 
