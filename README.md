@@ -37,6 +37,7 @@
 
 <!-- SKILLS GRID -->
 ---
+
 ## 🧰 Tech Stack (Daily Drivers)
 
 | **Frontend** | **Backend & Data** | **Mobile & Cloud** | **AI & Payments** |
