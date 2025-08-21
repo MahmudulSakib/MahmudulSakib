@@ -34,9 +34,6 @@
 
 > _“Interfaces should be fast, intuitive, and delightful—without sacrificing robustness.”_
 
----
-
----
 
 <!-- SKILLS GRID -->
 ## 🧰 Tech Stack (Daily Drivers)
@@ -73,15 +70,11 @@
 <img src="https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white">
 
----
+
 
 <!-- SERVICES -->
 
 
----
-
-
----
 
 <!-- WORKFLOW -->
 ## 🔧 Workflow & Principles
