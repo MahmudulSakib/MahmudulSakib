@@ -17,7 +17,7 @@
   </p>
 
   <!-- Gradient Hero Banner -->
-  <img alt="Hero banner" width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=Design%20💡%20x%20Code%20⚙️%20x%20AI%20🧠&text2=Motion-First%20Experiences&width=1200&height=250" />
+  <img alt="Hero banner" width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=Design%20💡%20%20Code%20⚙️%20%20AI%20🧠&text2=Motion-First%20Experiences&width=1200&height=250" />
 
 
 </div>
