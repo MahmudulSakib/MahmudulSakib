@@ -67,14 +67,19 @@
 ---
 
 <!-- GITHUB STATS -->
-## 📈 Open Source Snapshot
+<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MahmudulSakib&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmudulSakib&theme=transparent&hide_border=true" alt="streak" />
+  <img src="https://github-readme-stats-khaki-xi.vercel.app/api?username=MahmudulSakib&show_icons=true&theme=dark&border_radius=8" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-khaki-xi.vercel.app/api/top-langs/?username=MahmudulSakib&layout=compact&langs_count=12&theme=dark&border_radius=8" height="165" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudulSakib&layout=compact&theme=transparent&hide_border=true" alt="top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmudulSakib&theme=dark&border_radius=8" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MahmudulSakib&limit=5&theme=dark&combine_all_yearly_contributions=true" height="165" alt="Contributor Stats" />
 </p>
 
 ---
