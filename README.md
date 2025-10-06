@@ -25,7 +25,8 @@
 ---
 
 <!-- VALUE PITCH -->
-## ✨ What You Get With Me
+
+<h1 align="center">✨ What You Get With Me</h1>
 
 - **Motion-first UI**: Smooth GSAP/Framer Motion micro-interactions that feel alive.  
 - **AI-powered features**: Chatbots, intelligent search, summarization, product recs.  
@@ -38,7 +39,7 @@
 <!-- SKILLS GRID -->
 ---
 
-## 🧰 Tech Stack (Daily Drivers)
+<h1 align="center">🧰 Tech Stack (Daily Drivers)</h1>
 
 | **Frontend** | **Backend & Data** | **Mobile & Cloud** | **AI & Payments** |
 |--------------|---------------------|---------------------|-------------------|
@@ -56,7 +57,7 @@
 
 
 <!-- WORKFLOW -->
-## 🔧 Workflow & Principles
+<h1 align="center">🔧 Workflow & Principles</h1>
 
 - **Type-Safe by default** (TS everywhere, strict mode, clean contracts)  
 - **DB first** (clear schemas, migrations, indexing, observability)  
