@@ -74,13 +74,13 @@
   <img src="https://github-readme-stats-khaki-xi.vercel.app/api/top-langs/?username=MahmudulSakib&layout=compact&langs_count=12&theme=dark&border_radius=8" height="165" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmudulSakib&theme=dark&border_radius=8" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=MahmudulSakib&limit=5&theme=dark&combine_all_yearly_contributions=true" height="165" alt="Contributor Stats" />
-</p>
+</p> -->
 
 ---
 
