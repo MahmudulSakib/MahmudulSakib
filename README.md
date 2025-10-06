@@ -70,8 +70,8 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-khaki-xi.vercel.app/api?username=MahmudulSakib&show_icons=true&theme=dark&border_radius=8" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-khaki-xi.vercel.app/api/top-langs/?username=MahmudulSakib&layout=compact&langs_count=12&theme=dark&border_radius=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-khaki-xi.vercel.app/api?username=MahmudulSakib&show_icons=true&theme=tokyonight&border_radius=8" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-khaki-xi.vercel.app/api/top-langs/?username=MahmudulSakib&layout=compact&langs_count=12&theme=merko&border_radius=8" height="165" alt="Top Languages" />
 </p>
 
 <!-- <p align="center">
