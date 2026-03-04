@@ -13,11 +13,9 @@
 
   <!-- Sub -->
   <p>
-    <em>React Native · Next.js · Node.js · PostgreSQL · GSAP · Three.js · OpenAI</em>
+    <em> Next.js · Node.js · PostgreSQL · GSAP · Three.js · OpenAI</em>
   </p>
 
-  <!-- Gradient Hero Banner -->
-  <img alt="Hero banner" width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=Design%20💡%20%20Code%20⚙️%20%20AI%20🧠&text2=Motion-First%20Experiences&width=1200&height=250" />
 
 
 </div>
@@ -55,20 +53,6 @@
 
 
 
-<!-- SERVICES -->
-
-
-
-<!-- WORKFLOW -->
-<h1 align="center">🔧 Workflow & Principles</h1>
-
-- **Type-Safe by default** (TS everywhere, strict mode, clean contracts)  
-- **DB first** (clear schemas, migrations, indexing, observability)  
-- **Pixel-perfect motion** (measured durations, easing maps, reduces jank)  
-- **Performance** (SSR/SSG, caching, CDN, lazy-motion, image hygiene)  
-- **Security** (auth, rate limits, input validation, env discipline)
-
----
 
 <!-- GITHUB STATS -->
 <h1 align="center">📊 GitHub Stats</h1>
