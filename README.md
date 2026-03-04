@@ -8,7 +8,7 @@
 
   <!-- Title -->
   <h1 align="center">
-    Crafting Fast, Animated & AI-Ready Apps ⚡🪄
+    Building Fast & AI-Ready Web Apps | Frontend: Next.js & React | Backend: Node.js & Express
   </h1>
 
   <!-- Sub -->
@@ -28,10 +28,13 @@
 
 <h1 align="center">✨ What You Get With Me</h1>
 
-- **Motion-first UI**: Smooth GSAP/Framer Motion micro-interactions that feel alive.  
-- **AI-powered features**: Chatbots, intelligent search, summarization, product recs.  
-- **Production-grade stacks**: Clean APIs, strong DB schemas, secure auth, CI/CD.  
+- **Frontend tooling**: TypeScript, Tailwind CSS, React Query / TanStack Query for state management.
+- **Backend tooling**: Supabase / Prisma ORM, REST & GraphQL APIs, server-side rendering support.
+- **Motion-first UI**: Smooth GSAP / Framer Motion micro-interactions that feel alive.
+- **AI-powered features**: Chatbots, intelligent search, summarization, product recommendations.
+- **Production-grade stacks**: Clean APIs with Node.js & Express, strong DB schemas (PostgreSQL / Supabase), secure auth, CI/CD pipelines.
 - **Mobile + Web**: React Native (Expo) & Next.js with shared logic and design systems.
+
 
 > _“Interfaces should be fast, intuitive, and delightful—without sacrificing robustness.”_
 
@@ -87,13 +90,9 @@
 
 <!-- CONTACT -->
 ## 🤝 Let’s Build Something
-
-If you like this profile, consider ⭐ starring a repo—it helps a ton!
-
 ---
 
 <!-- FOOTER -->
 <p align="center">
-  <sub>Built with care. Designed for speed. Animated for joy.</sub><br/>
-  <sub>© Mahmudul H. Sakib</sub>
+  <sub>© Mahmudul Hasan Sakib</sub>
 </p>
