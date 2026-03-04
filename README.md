@@ -8,7 +8,7 @@
 
   <!-- Title -->
   <h1 align="center">
-    Building Fast & AI-Ready Web Apps | Frontend: Next.js & React | Backend: Node.js & Express
+    Building Fast & AI-Ready Web Apps | Next.js & React | Node.js & Express
   </h1>
 
   <!-- Sub -->
