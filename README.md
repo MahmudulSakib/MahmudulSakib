@@ -13,7 +13,7 @@
 
   <!-- Sub -->
   <p>
-    <em> Next.js · Node.js · PostgreSQL · GSAP · Three.js · OpenAI</em>
+    <em> Next.js · Node.js · PostgreSQL · GraphQL · Supabase · Tanstack · Secure Authk </em>
   </p>
 
 
@@ -24,13 +24,18 @@
 
 <!-- VALUE PITCH -->
 
-<h1 align="center">✨ What You Get With Me</h1>
+<h1 align="center">🤖 What You Get With Me</h1>
+
 - **Frontend tooling**: TypeScript, Tailwind CSS, React Query / TanStack Query for state management.
-- **Backend tooling**: Supabase / Prisma ORM, REST & GraphQL APIs, server-side rendering support.
+
+- **Backend tooling**: Node.js, Supabase / PostgreSQL, Prisma / Drizzle ORM, REST & GraphQL APIs, server-side rendering support.
+
 - **Motion-first UI**: Smooth GSAP / Framer Motion micro-interactions that feel alive.
+
 - **AI-powered features**: Chatbots, intelligent search, summarization, product recommendations.
-- **Production-grade stacks**: Clean APIs with Node.js & Express, strong DB schemas (PostgreSQL / Supabase), secure auth, CI/CD pipelines.
-- **Mobile + Web**: React Native (Expo) & Next.js with shared logic and design systems.
+
+- **Production-grade stacks**: Clean APIs with Express, strong DB schemas (PostgreSQL / Supabase), secure auth, CI/CD pipelines.
+
 
 
 
